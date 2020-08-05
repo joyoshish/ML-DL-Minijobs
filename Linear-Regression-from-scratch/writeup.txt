@@ -1,6 +1,0 @@
-Linear Regression with NumPy and Python
-by Coursera Project Network
-About this Course
-Welcome to this project-based course on Linear Regression with NumPy and Python. In this project, you will do all the machine learning without using any of the popular machine learning libraries such as scikit-learn and statsmodels. The aim of this project and is to implement all the machinery, including gradient descent and linear regression, of the various learning algorithms yourself, so you have a deeper understanding of the fundamentals.
-
-This course runs on Coursera's hands-on project platform called Rhyme. On Rhyme, you do projects in a hands-on manner in your browser. You will get instant access to pre-configured cloud desktops containing all of the software and data you need for the project. Everything is already set up directly in your internet browser so you can just focus on learning. For this project, you’ll get instant access to a cloud desktop with Python, Jupyter, NumPy, and Seaborn pre-installed.
